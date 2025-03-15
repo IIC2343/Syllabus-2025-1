@@ -17,7 +17,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 | -------------------: | ---------------------------- | ---------------------------------------------------------- | ------------------------ |
 | Coordinadora General         | Catalina Miranda           | [@cataconi](https://github.com/cataconi) | ccmiranda1@uc.cl | 
 | Coordinadora Laboratorio         | Javiera Pinto           | [@javipipi](https://github.com/javipipi) | jpints@uc.cl |
-| Bienestar         | Catalina Cifuentes           | [@githubuser](https://github.com/) | correo@uc.cl |
+| Bienestar         | Catalina Cifuentes           | [@catalinacifuentes](https://github.com/catalinacifuentes) | c.cifuentes@uc.cl |
 | Experto Cátedra         | Joaquín Peralta           | [@roahoki](https://github.com/roahoki) | jperaltaperez@uc.cl |
 |          | Daniela Ríos           | [@Danielaarp](https://github.com/Danielaarp) | Danielaarp@uc.cl |
 | Cátedra Corrector         | Gonzalo Bastías           | [@gBastias2001](https://github.com/gBastias2001) | gbastias.o@uc.cl |
@@ -31,7 +31,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 |          | Jorge Parga           | [@cokeparga](https://github.com/cokeparga) | jorge.parga@uc.cl |
 | Laboratorio         | Claudio Mora           | [@3rdPix](https://github.com/3rdPix) | claudio.mora@uc.cl |
 |          | Vicente Cordero           | [@vicenteCordero](https://github.com/vicenteCordero) | vicente.cordero@uc.cl |
-|          | Kahil Rasse           | [@githubuser](https://github.com/) | correo@uc.cl |
+|          | Kahil Rasse           | [@K-hil](https://github.com/K-hil) | kahil.rasse@uc.cl |
 
 ### Evaluaciones Escritas
 
