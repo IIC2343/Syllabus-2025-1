@@ -19,7 +19,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 | Coordinadora Laboratorio         | Javiera Pinto           | [@javipipi](https://github.com/javipipi) | jpints@uc.cl |
 | Bienestar         | Catalina Cifuentes           | [@githubuser](https://github.com/) | correo@uc.cl |
 | Experto Cátedra         | Joaquín Peralta           | [@roahoki](https://github.com/roahoki) | jperaltaperez@uc.cl |
-|          | Daniela Ríos           | [@githubuser](https://github.com/) | correo@uc.cl |
+|          | Daniela Ríos           | [@Danielaarp](https://github.com/Danielaarp) | Danielaarp@uc.cl |
 | Cátedra Corrector         | Gonzalo Bastías           | [@gBastias2001](https://github.com/gBastias2001) | gbastias.o@uc.cl |
 |          | Tomás López           | [@Gansytom](https://github.com/Gansytom) | tomas.lopezm20@uc.cl |
 |          | Alberto Maturana           | [@VANCOUVERMATU11](https://github.com/VANCOUVERMATU11) | alberto.maturana@uc.cl |
