@@ -27,7 +27,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 |          | Nicolás Romo           | [@NicolasRomoA](https://github.com/NicolasRomoA) | nicoromo2001@gmail.com |
 |          | Mario Rojas           | [@Couvenn](https://github.com/Couvenn) | mario.denzel@estudiante.uc.cl|
 | Experto Laboratorio         | Felipe Quiñones           | [@FelipeQuinones](https://github.com/FelipeQuinones) | fquiones@uc.cl |
-|          | Alejandro Tapia           | [@githubuser](https://github.com/) | correo@uc.cl |
+|          | Alejandro Tapia           | [@LizBeeUC](https://github.com/LizBeeUC) | alejandro.tapia@uc.cl |
 |          | Jorge Parga           | [@cokeparga](https://github.com/cokeparga) | jorge.parga@uc.cl |
 | Laboratorio         | Claudio Mora           | [@3rdPix](https://github.com/3rdPix) | claudio.mora@uc.cl |
 |          | Vicente Cordero           | [@vicenteCordero](https://github.com/vicenteCordero) | vicente.cordero@uc.cl |
